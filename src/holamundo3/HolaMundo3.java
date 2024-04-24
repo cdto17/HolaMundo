@@ -14,6 +14,9 @@ public class HolaMundo3 {
     
     public static void main(String[] args) {
         // TODO code application logic here
+ String name= "Carlos";
+String name2= "Ariel";
+String amigos= "";
         
     }
     
