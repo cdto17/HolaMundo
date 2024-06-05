@@ -16,7 +16,7 @@ public class HolaMundo3 {
         // TODO code application logic here
  String name= "Carlos";
 String name2= "Ariel";
-String amigos= "";
+String amigos= "Hola";
         
     }
     
